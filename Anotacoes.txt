@@ -1,0 +1,7 @@
+Instalacoes necessárias
+
+backend
+    - django-cors-headers
+
+frontedn
+    - axos
