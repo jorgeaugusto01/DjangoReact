@@ -1,5 +1,6 @@
 
 Aulas: https://www.youtube.com/watch?v=uZgRbnIsgrA (Django and React Tutorial // 1 - Creating a Fullstack Application)
+https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react
 
 Instalacoes necessárias
 
